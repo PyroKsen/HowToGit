@@ -1,0 +1,56 @@
+.name {
+    font-size: 50px;
+    border-bottom: dashed 2px black;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    display: inline;
+    text-align: center;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 35px;
+}
+
+.fdiv {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.line:hover {
+    border: white 2px solid;
+    border-radius: 24px;
+    text-decoration: none;
+}
+
+.grad {
+    background: linear-gradient(45deg, #4158d0 0%, #c850c0 40%, #ffcc70 90%);
+}
+
+.footer {
+    column-count: 3;
+    color: white;
+    min-height: auto;
+    max-width: 250px;
+    column-gap: 50px;
+}
+.fgrad {
+    margin-top: 0px;
+    text-align: center;
+    background: linear-gradient(45deg, #4128d0 0%, #c852c0 40%, #ff2c70 90%);
+    word-spacing: 9999px;
+    max-width: 50px;
+    max-height: max-content;
+    border: solid 2px black;
+}
+.foteerrovn {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
